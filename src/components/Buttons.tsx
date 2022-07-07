@@ -15,7 +15,7 @@ const Buttons = () => {
             dispatch(removeLastChar());
         }else if(value.match(/^[+|\-|/|*]$/gi)){
             dispatch(math(value));
-        }else if(value.match(/\=/gi)){
+        }else if(value.match(/=/gi)){
             dispatch(result());
         }else if(value.match(/CE/gi)){
             dispatch(clearInputState());
