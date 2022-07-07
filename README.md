@@ -1,6 +1,15 @@
-# Getting Started with Create React App
+# Simple Calculator
+----------------------------------------------------------------
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> #### Stack:
+>> _**React**_
+>> _**Redux-toolkit**_
+>> _**TypeScript**_
+>
+
+![Image](./src/assets/img/calculator1.jpg)
+![Image](./src/assets/img/calculator2.jpg)
+
 
 ## Available Scripts
 
