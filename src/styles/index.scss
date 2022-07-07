@@ -57,3 +57,18 @@
         font-weight: 600;
     }
 }
+
+.process {
+    width: 415px;
+    height: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+
+    p {
+        color: $light;
+        font-size: 14px;
+        line-height: 14px;
+        font-weight: 600;
+    }
+}

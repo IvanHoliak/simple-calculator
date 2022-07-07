@@ -18,8 +18,8 @@ export const content: IContent[] = [
     },
     {
         id: 4,
-        value: "<-",
-        text: "<-"
+        value: "Back",
+        text: "Back"
     },
     {
         id: 5,
@@ -28,13 +28,13 @@ export const content: IContent[] = [
     },
     {
         id: 6,
-        value: "^",
-        text: "x2"
+        value: "x²",
+        text: "x²"
     },
     {
         id: 7,
-        value: "**",
-        text: "√×"
+        value: "√x",
+        text: "√x"
     },
     {
         id: 8,
@@ -103,7 +103,7 @@ export const content: IContent[] = [
     },
     {
         id: 21,
-        value: "+/-",
+        value: "±",
         text: "±"
     },
     {
